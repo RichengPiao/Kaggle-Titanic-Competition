@@ -1,2 +1,2 @@
-# Titanic---Machine-Learning-from-Disaster
-Kaggle Compettion - Predict survival on the Titanic
+# Titanic---Kaggle_Compettion 
+Machine Learning from Disaster - Predict survival on the Titanic
