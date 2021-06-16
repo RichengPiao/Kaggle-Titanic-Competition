@@ -8,5 +8,5 @@ Machine Learning from Disaster - Predict survival on the Titanic
 
 **Submission v1:** \
 -Model: Random Forest Model. \
--Inclued feature: "Pclass", "Sex", "SibSp", and "Parch".
+-Inclued feature: "Pclass", "Sex", "SibSp", and "Parch". \
 -Return accuracy: 0.77990. 
