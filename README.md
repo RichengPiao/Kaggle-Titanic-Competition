@@ -1,4 +1,5 @@
-# Titanic Kaggle Compettion
+# Titanic - Machine Learning from Disaster
+Link: https://www.kaggle.com/c/titanic/leaderboard#score
 
 **Goal:** \
 Machine Learning from Disaster - Predict survival on the Titanic
