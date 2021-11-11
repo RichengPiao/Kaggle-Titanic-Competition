@@ -1,5 +1,5 @@
 # Titanic - Machine Learning from Disaster
-Link: https://www.kaggle.com/c/titanic/leaderboard#score
+Link: https://www.kaggle.com/c/titanic/overview
 
 **Goal:** \
 Machine Learning from Disaster - Predict survival on the Titanic
